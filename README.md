@@ -1,4 +1,4 @@
-# Hi there! 👋, I'm Abhay Sharma Sharma
+# Hi there! 👋, I'm Abhay Sharma
 
 I'm a passionate Data Science and Machine Learning enthusiast based in India. Welcome to my profile! Here's a bit about me:
 
