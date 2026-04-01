@@ -1,28 +1,72 @@
-# Hi there! 👋, I'm Abhay Sharma
+# Hi there! 👋 I'm Abhay Sharma
 
-I'm a passionate Data Science and Machine Learning enthusiast based in India. Welcome to my profile! Here's a bit about me:
+I'm a Full-Stack Developer from India with 1.5+ years of experience building scalable backend systems, cloud-native APIs, and client-facing products. I enjoy solving real engineering problems across backend architecture, APIs, databases, and modern frontend systems — while also leveraging AI tools to improve development workflows.
 
-- 👀 I’m deeply interested in the field of Data Science and Machine Learning.
-- 🌱 I'm currently exploring various Machine Learning algorithms, Python libraries, and Natural Language Processing (NLP).
-- 💞️ I'm open to collaborating on Data Science and Machine Learning projects. If you have an exciting idea or project in mind, feel free to reach out.
+## 🚀 What I Work On
 
-## 🔧 Skills and Interests
+* 🔧 Building scalable backend systems using Node.js, Python, and serverless architectures
+* ☁️ Deploying cloud-native solutions using AWS Lambda, S3, IAM, EC2, and CloudFront
+* 🧠 Using AI tools like ChatGPT, Claude, and Claude Code to accelerate development and automation
+* 📊 Designing efficient data systems with Neo4j and MySQL
+* ⚡ Creating modern frontend experiences with React and JavaScript
 
-- Python
-- Data Analysis
-- Machine Learning
-- Natural Language Processing (NLP)
-- LLMs
-- Data Visualization
-- Deep Learning
-- Collaborative Problem Solving
+## 💼 Professional Experience
 
-## 📫 How to Reach Me
+* Full-Stack Developer at **ConfigCloud (formerly POST 105)**
 
-You can get in touch with me through my email at [abhaysh640@gmail.com](mailto:abhaysh640@gmail.com). I'm always open to connecting with fellow enthusiasts, researchers, and practitioners in the field of Data Science and Machine Learning.
+  * Built and deployed 25+ API endpoints on AWS Lambda
+  * Revamped dashboards for 10+ enterprise clients
+  * Integrated Shopify APIs for product and order synchronization
+  * Built CI/CD pipelines using GitHub Actions
+  * Developed client-facing Excel Add-ins
 
-## 🌍 Connect with Me
+* Junior Developer at **POST 105 Technologies**
 
-You can also connect with me on LinkedIn: [Abhay Sharma](https://www.linkedin.com/in/abhaysh64)
+  * Built APIs connecting Neo4j databases using Python and Node.js
+  * Improved legacy system performance by 30%
+  * Implemented automated testing with Selenium and Pytest
 
-Looking forward to exciting collaborations and discussions in the fascinating world of Data Science and Machine Learning! 😃
+## 🛠️ Tech Stack
+
+### Languages
+
+Python • JavaScript • TypeScript • SQL • HTML • Cypher
+
+### Backend
+
+Node.js • Express.js • FastAPI • Django • GraphQL • REST APIs • Serverless
+
+### Frontend
+
+React.js • Tailwind CSS • Material UI • Excel Add-in Development
+
+### Databases
+
+Neo4j • MySQL
+
+### Cloud & Dev Tools
+
+AWS Lambda • S3 • IAM • EC2 • CloudFront • GitHub Actions • Postman • CI/CD
+
+### AI & Productivity
+
+ChatGPT • Claude • Claude Code • Prompt Engineering
+
+## 📌 Featured Projects
+
+### 🍔 Cady Food Ordering Chatbot
+
+Conversational AI chatbot for food ordering, tracking, and order placement.
+**Tech:** Python, FastAPI, Dialogflow, SQL
+
+### 📄 Ask Your PDF
+
+Upload PDFs and extract intelligent answers using LLM-powered document understanding.
+**Tech:** LangChain, Hugging Face, FAISS, Streamlit
+
+## 📫 Connect With Me
+
+* 📧 Email: [abhaysh640@gmail.com](mailto:abhaysh640@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/abhaysh64
+
+Always open to interesting collaborations, backend engineering discussions, and product-building opportunities 🚀
