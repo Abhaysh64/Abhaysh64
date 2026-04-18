@@ -1,72 +1,101 @@
-# Hi there! 👋 I'm Abhay Sharma
+# Hi 👋, I'm Abhay Sharma
 
-I'm a Full-Stack Developer from India with 1.5+ years of experience building scalable backend systems, cloud-native APIs, and client-facing products. I enjoy solving real engineering problems across backend architecture, APIs, databases, and modern frontend systems — while also leveraging AI tools to improve development workflows.
+<h3 align="center">🚀 Full-Stack Developer | Backend Engineer | Cloud & AI Builder</h3>
 
-## 🚀 What I Work On
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+APIs;Cloud-Native+Systems;AI-Powered+Applications;FastAPI+•+React+•+AWS+•+Neo4j&center=true&width=500&height=45">
+</p>
 
-* 🔧 Building scalable backend systems using Node.js, Python, and serverless architectures
-* ☁️ Deploying cloud-native solutions using AWS Lambda, S3, IAM, EC2, and CloudFront
-* 🧠 Using AI tools like ChatGPT, Claude, and Claude Code to accelerate development and automation
-* 📊 Designing efficient data systems with Neo4j and MySQL
-* ⚡ Creating modern frontend experiences with React and JavaScript
+---
 
-## 💼 Professional Experience
+## ⚡ About Me
 
-* Full-Stack Developer at **ConfigCloud (formerly POST 105)**
+* 🔭 Currently building **enterprise dashboard systems & cloud APIs**
+* ⚙️ Backend-focused Full-Stack Developer with **2+ years experience**
+* ☁️ Working with **AWS Lambda, CI/CD, Serverless deployments**
+* 🤖 Exploring **LLMs, LangChain, OpenAI integrations**
+* 📈 Interested in scalable architectures & production engineering
 
-  * Built and deployed 25+ API endpoints on AWS Lambda
-  * Revamped dashboards for 10+ enterprise clients
-  * Integrated Shopify APIs for product and order synchronization
-  * Built CI/CD pipelines using GitHub Actions
-  * Developed client-facing Excel Add-ins
+---
 
-* Junior Developer at **POST 105 Technologies**
+## 🌐 Portfolio
 
-  * Built APIs connecting Neo4j databases using Python and Node.js
-  * Improved legacy system performance by 30%
-  * Implemented automated testing with Selenium and Pytest
+🔗 **Portfolio Website:**
+https://abhaysharma640.netlify.app/
 
-## 🛠️ Tech Stack
+---
 
-### Languages
+## 🚀 Tech Stack
 
-Python • JavaScript • TypeScript • SQL • HTML • Cypher
+### 💻 Languages
 
-### Backend
+`Python` `JavaScript` `TypeScript` `SQL` `Cypher`
 
-Node.js • Express.js • FastAPI • Django • GraphQL • REST APIs • Serverless
+### 🎨 Frontend
 
-### Frontend
+`React.js` `Tailwind CSS` `Material UI` `HTML/CSS` `WordPress`
 
-React.js • Tailwind CSS • Material UI • Excel Add-in Development
+### ⚙️ Backend
 
-### Databases
+`FastAPI` `Node.js` `Express.js` `Django` `GraphQL` `REST APIs`
 
-Neo4j • MySQL
+### ☁️ Cloud & DevOps
 
-### Cloud & Dev Tools
+`AWS Lambda` `AWS S3` `AWS EC2` `CloudFront` `GitHub Actions`
 
-AWS Lambda • S3 • IAM • EC2 • CloudFront • GitHub Actions • Postman • CI/CD
+### 🗄️ Databases
 
-### AI & Productivity
+`Neo4j` `MySQL`
 
-ChatGPT • Claude • Claude Code • Prompt Engineering
+### 🤖 AI Stack
+
+`OpenAI API` `LangChain` `HuggingFace` `Prompt Engineering`
+
+---
 
 ## 📌 Featured Projects
 
 ### 🍔 Cady Food Ordering Chatbot
 
-Conversational AI chatbot for food ordering, tracking, and order placement.
+AI chatbot for food ordering + tracking
+
 **Tech:** Python, FastAPI, Dialogflow, SQL
+
+---
 
 ### 📄 Ask Your PDF
 
-Upload PDFs and extract intelligent answers using LLM-powered document understanding.
-**Tech:** LangChain, Hugging Face, FAISS, Streamlit
+Chat with PDFs using NLP + vector search
+
+**Tech:** Streamlit, LangChain, HuggingFace, FAISS
+
+---
+
+## 📊 GitHub Stats
+
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhaysh64\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaysh64\&layout=compact)
+
+---
+
+## 🔥 Current Focus
+
+* Scalable backend systems
+* AI workflow automation
+* Production-grade cloud deployment
+* Advanced API architecture
+
+---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [abhaysh640@gmail.com](mailto:abhaysh640@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/abhaysh64
+* GitHub: https://github.com/Abhaysh64
+* LinkedIn: [www.linkedin.com/in/abhaysh64](http://www.linkedin.com/in/abhaysh64)
+* Email: [abhaysh640@gmail.com](mailto:abhaysh640@gmail.com)
 
-Always open to interesting collaborations, backend engineering discussions, and product-building opportunities 🚀
+---
+
+## ⚡ Developer Motto
+
+> Build clean. Scale smart. Ship fast.
