@@ -71,13 +71,6 @@ Chat with PDFs using NLP + vector search
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhaysh64\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaysh64\&layout=compact)
-
----
 
 ## 🔥 Current Focus
 
