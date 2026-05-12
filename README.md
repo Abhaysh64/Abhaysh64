@@ -91,4 +91,4 @@ Chat with PDFs using NLP + vector search
 
 ## ⚡ Developer Motto
 
-> Build clean. Scale smart. Ship fast.
+> Build clean. Scale smart. Ship fast..
